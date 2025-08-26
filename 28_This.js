@@ -1,5 +1,4 @@
 console.log(this);
-
 function myFunc(){
     // "use strict" // after using "this" get undefined
     console.log(this);

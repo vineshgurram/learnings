@@ -1,0 +1,62 @@
+1. Bank Management System
+
+- Create a BankAccount constructor with owner, balance
+
+- Add deposit(amount) and withdraw(amount) methods.
+
+- Extend into SavingsAccount with interestRate and method addInterest().
+
+- Extend further into CurrentAccount with method issueCheck(amount).
+
+- Try creating multiple accounts and checking if shared methods are on the prototype.
+
+
+
+2. Library System
+
+- Create a Book(title, author, year) constructor.
+
+- Add method getSummary() (returns "Title by Author (Year)").
+
+- Create a Library constructor that holds an array of books.
+
+- Add methods addBook(book) and listBooks().
+
+- Practice creating books and adding them into the library.
+
+
+3. Vehicle Hierarchy
+
+- Base class: Vehicle(type) with start() method.
+
+- Extend into Car(brand, model).
+
+- Extend further into ElectricCar(brand, model, battery).
+
+- Override start() in ElectricCar (prints "Silent start with battery").
+
+- Create one petrol car and one EV, test overriding.
+
+
+4. Music Player
+
+- Create a Song(title, artist, duration) constructor.
+
+- Add method play().
+
+- Create a Playlist(name) constructor with a list of songs.
+
+- Add methods addSong(song) and playAll().
+
+- Bonus: Extend Playlist into PremiumPlaylist with shuffle() method.
+
+
+5. Real Estate Example
+
+- Property(location, price) base class.
+
+- Extend into House(location, price, rooms) with method getDetails().
+
+- Extend into Apartment(location, price, floor) with method getDetails().
+
+- Override getDetails() differently for House and Apartment.
