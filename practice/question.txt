@@ -1,0 +1,123 @@
+1. Declare a variable for your name, age, and city, and print:
+
+"My name is John, I am 25 years old, and I live in New York."
+
+2. Swap two variables without using a third variable.
+
+3. Write a program to check the data type of a value.
+
+4. What will be the output of:
+
+    console.log(typeof null);
+    console.log(typeof NaN);
+
+    Explain why
+
+5. Difference between var, let, and const with an example.
+
+6. Reverse a string without using .reverse().
+
+7. Check if a string is a palindrome.
+
+8. Count how many vowels are in a given string.
+
+9. Capitalize the first letter of each word in a sentence.
+
+10. Remove duplicate characters from a string.
+
+11. Check if a string is a palindrome (e.g., madam, racecar).
+
+12. Count how many vowels are in a string.
+
+13. Capitalize the first letter of each word in a sentence.
+
+14. Reverse an array without .reverse().
+
+15. Find the largest and smallest number in an array.
+
+16 Remove duplicates from an array.
+
+17. Merge two arrays and remove duplicates.
+
+18. Check if two arrays are equal (same elements in same order).
+
+19. Find the sum of all numbers in an array.
+
+20. Return only even numbers from an array.
+
+21. Sort an array in ascending and descending order without using .sort().
+
+22. Create an object to store student details (name, age, grade) and print them.
+
+23. Count how many times each character appears in a string (store in an object).
+
+24. Merge two objects into one.
+
+25. Check if a property exists in an object.
+
+26. Convert an object into an array of key-value pairs.
+
+27. Write a function that returns factorial of a number.
+
+28. Write a function that checks if a number is prime.
+
+29. FizzBuzz Problem:
+
+30. Print numbers from 1 to 100
+
+31. If divisible by 3, print "Fizz"
+
+32. If divisible by 5, print "Buzz"
+
+33. If divisible by both, print "FizzBuzz"
+
+34. Find Fibonacci sequence up to n terms.
+
+35. Write a function to flatten a nested array:
+36. Example: [1, [2, [3, 4]], 5] → [1, 2, 3, 4, 5]
+
+37. Use array destructuring to swap two variables.
+
+38. Use object destructuring to extract values from an object.
+
+39. Write an arrow function to sum two numbers.
+
+40. Explain the difference between:
+function foo() {}
+const foo = () => {};
+
+41. Write a function that takes an array and returns a new array with each element doubled (using .map()).
+
+42. Filter an array to keep only numbers greater than 10 (using .filter()).
+
+43. Reduce an array to find the sum of numbers (using .reduce()).
+
+44. Write a program that takes a number and prints:
+
+    "Positive" if it's > 0
+
+    "Negative" if < 0
+
+    "Zero" if == 0
+
+45. Check if a number is even or odd.
+
+46. Check if a year is a leap year.
+
+47. Create a simple grade calculator:
+
+    90+ → A
+
+    80–89 → B
+
+    70–79 → C
+
+    below 70 → F
+
+48. Find the largest of 3 numbers.
+
+49. Print the multiplication table of a number (e.g., for 5: 5×1=5 ... 5×10=50).
+
+50. Check if a number is prime.
+
+51. Find the factorial of a number.

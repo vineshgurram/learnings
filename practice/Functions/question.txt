@@ -1,0 +1,43 @@
+Basic Function Practice
+
+Write a function to find the square of a number.
+
+Write a function that returns the maximum of two numbers.
+
+Write a function to check if a number is even or odd.
+
+Write a function that takes a string and returns it in uppercase.
+
+Write a function with a default parameter that greets a user.
+
+Write a function that reverses a string.
+
+Write a function that counts vowels in a string.
+
+Write a function that finds factorial of a number.
+
+Write a function that returns the sum of all elements in an array.
+
+Write a function that removes duplicates from an array.
+
+Write a function to check if a number is prime.
+
+Write a function that returns the Fibonacci sequence up to n terms.
+
+Write a function that returns the longest word in a sentence.
+
+Write a function that counts how many times each element occurs in an array (frequency counter).
+
+Write a function that takes another function as an argument (Higher Order Function) and applies it to an array.
+
+🔹 React-Relevant Function Practice
+
+Write a function that filters out inactive users from an array of objects.
+
+Write a function that sorts products by price.
+
+Write a function that maps over an array of names and returns a new array with greetings.
+
+Write a function that debounces another function (common in search bars).
+
+Write a function that throttles another function (common in scroll events).
