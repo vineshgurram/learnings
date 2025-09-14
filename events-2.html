@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+    <style>
+        .box{
+            border: 1px solid black;
+            padding: 30px;
+            color: white;
+        }
+
+        .grand-parent{
+            background-color: blueviolet;
+        }
+
+        .parent{
+            background-color: blue;
+        }
+        .child{
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="grand-parent box">
+        Grand Parent
+        <div class="parent box">
+            Parent
+            <div class="child box">
+                Child
+
+                <button>
+                    Click me
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="42_Events_Capturing.js"></script>
+</body>
+</html>
