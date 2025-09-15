@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.accordion-item{
+    margin-bottom: 30px;
+}
+
+.accordion-question{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.accordion-answer{
+    font-weight: 400;
+    display: none;
+}

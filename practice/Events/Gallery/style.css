@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    width: 100%;
+}
+
+.full-screen-wrapper img{
+    height: 60vh;
+    max-width: 400px;
+    object-fit: cover;
+    object-position: center;
+    margin: 0 auto;
+}
+
+.img-box-outer-wrapper{
+    overflow: auto;
+}
+
+.img-box-wrapper .img-box{
+    width: 300px;
+}
+
+.img-box-wrapper{
+    display: flex;
+    width: max-content;
+}
+
+.img-box-wrapper img{
+    height: 40vh;
+    object-fit: cover;
+    object-position: center;
+    cursor: pointer;
+    border: 2px solid #fff;
+}
+
+
