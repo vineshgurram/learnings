@@ -1,5 +1,5 @@
 const root = document.getElementById("root");
-const API_KEY = "da6786433ea5a0b09ae0b1512bc51e07";
+const API_KEY = process.env.API_KEY;
 const URL = "https://api.openweathermap.org";
 let cityName = "Navi Mumbai";
 
